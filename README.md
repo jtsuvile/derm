@@ -1,0 +1,2 @@
+## Attempts at classifying melanoma, based on SIIM-ISIC dataset
+Data can be found here: (https://www.kaggle.com/c/siim-isic-melanoma-classification/data)[https://www.kaggle.com/c/siim-isic-melanoma-classification/data]
